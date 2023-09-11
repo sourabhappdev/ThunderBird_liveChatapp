@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343754313609",
+    "project_id": "thunder-bird-e1ce7",
+    "storage_bucket": "thunder-bird-e1ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343754313609:android:ef7050e807d2200e0edb58",
+        "android_client_info": {
+          "package_name": "com.sourabhsharma.ThunderBird.thunderbird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIXqhWqMxODdkFuPnAREJ6R-1JgMVpew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
